@@ -1,0 +1,52 @@
+h1 {
+  text-align: center;
+  color: gold;
+}
+body {
+  background-color: black;
+}
+h2 {
+  color: gold;
+}
+p {
+  color: white;
+}
+.paw-image {
+  width: 150px;
+  height: 100px;
+  position: absolute;
+  top: 2%;
+  left: 90%;
+}
+.rel-text {
+  color: white;
+  margin-left: -25px;
+}
+.jain-image {
+  position: absolute;
+  top: 118%;
+  left: 64%;
+}
+.abraham-image {
+}
+.Philosophy-text {
+  color: white;
+  margin-left: -25px;
+}
+.uti-image {
+  border-radius: 50%;
+}
+.abo-image {
+  border-radius: 50%;
+}
+.con-image {
+  border-radius: 50%;
+}
+.fem-image {
+  border-radius: 50%;
+}
+.Foot {
+  font-size: larger;
+  text-align: center;
+  color: white;
+}
